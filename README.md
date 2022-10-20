@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!!, I am Jose Rodriguez and I am  Frontend Developer. <br>I am a big fan of interact wiht people, find creative solutions for problems, <br>and enjoyng life with the people I love.<br>I almost forget it, I love coding 
+Hello!!, I am Jose Rodriguez and I am  Frontend Developer. <br>Big fan of interact with people, find creative solutions for problems, <br>and enjoyng life with the people I love.<br>I almost forget it, I love coding.
 
 
 ## 🌐 Socials:
