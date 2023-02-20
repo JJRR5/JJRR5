@@ -1,5 +1,5 @@
 # 🤖 About Me:
-Hi there! My name is Jose Rodriguez, and I am an experienced software developer with a strong command of JavaScript and Python. I have extensive experience working with both front-end and back-end development, and I specialize in using these programming languages to develop dynamic, robust applications.
+Hi there! My name is Jose Rodriguez, and I am an experienced software developer with a strong command of JavaScript and Python. I have extensive experience working with both front-end and back-end development but mostly frontend, and I specialize in using these programming languages to develop dynamic, robust applications.
 
 My expertise in JavaScript includes creating interactive and responsive web pages, designing and implementing complex client-side functionality, and using popular frameworks such as React to create engaging user interfaces. In Python, I have experience working with web frameworks such as Odoo, as well as using the language to develop scripts, and web scrapping.
 
