@@ -1,9 +1,5 @@
 # 🤖 About Me:
-Hi there! My name is Jose Rodriguez, and I am an experienced software developer with a strong command of JavaScript and Python. I have extensive experience working with both front-end and back-end development but mostly frontend, and I specialize in using these programming languages to develop dynamic, robust applications.
-
-My expertise in JavaScript includes creating interactive and responsive web pages, designing and implementing complex client-side functionality, and using popular frameworks such as React to create engaging user interfaces. In Python, I have experience working with web frameworks such as Odoo, as well as using the language to develop scripts.
-
-Overall, I am passionate about coding and am always seeking out new ways to improve my skills and develop high-quality, efficient code.
+As a Full Stack Developer with over 2.5 years of experience, I excel in creating and integrating APIs, developing full applications, and enhancing website functionalities. My expertise lies in front-end development using Vue.js and React, and back-end proficiency in Python and NodeJS. I am skilled in optimizing SEO, boosting performance, migrating code, and troubleshooting bugs. My career is highlighted by delivering complex software solutions. My focus is on leveraging my skills to drive growth and tackle intricate challenges in business settings
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjoserr/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jjoserodr) 
