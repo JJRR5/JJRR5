@@ -2,7 +2,8 @@
 As a Full Stack Developer with over 2.5 years of experience, I excel in creating and integrating APIs, developing full applications, and enhancing website functionalities. My expertise lies in front-end development using Vue.js and React, and back-end proficiency in Python and NodeJS. I am skilled in optimizing SEO, boosting performance, migrating code, and troubleshooting bugs. My career is highlighted by delivering complex software solutions. My focus is on leveraging my skills to drive growth and tackle intricate challenges in business settings
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjoserr/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jjoserodr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjoserr/) 
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
